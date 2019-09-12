@@ -1,2 +1,2 @@
 # BBS
-simple JSP project 
+Simple BBS using JSP
